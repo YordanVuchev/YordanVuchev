@@ -3,6 +3,11 @@
 🌟 **Solidity and Frontend Developer**  
 🚀 Passionate about creating decentralized applications and intuitive user interfaces.  
 
+## 💻 TechStack
+Languages: Solidity, JavaScript/TypeScript
+
+Frameworks/Libraries: Foundry, React, Next.js, Bootstrap, Tailwind
+
 ## 🌱 Currently Building  
 🔗 [Go Pump Me](https://x.com/go_pump_me)
 
