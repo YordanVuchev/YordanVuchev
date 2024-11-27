@@ -9,7 +9,7 @@ Languages: Solidity, JavaScript/TypeScript
 Frameworks/Libraries: Foundry, React, Next.js, Bootstrap, Tailwind
 
 ## 🌱 Currently Building  
-🔗 [Go Pump Me](https://x.com/go_pump_me)
+🔗 [Memers Exchange](https://x.com/MemersExchange)
 
 ## 💬 Let's Connect!  
 If you’d like to chat about blockchain, development, or potential collaborations, feel free to reach out:  
