@@ -8,9 +8,6 @@ Languages: Solidity, JavaScript/TypeScript
 
 Frameworks/Libraries: Foundry, React, Next.js, Bootstrap, Tailwind
 
-## 🌱 Currently Building  
-🔗 [Memers Exchange](https://x.com/MemersExchange)
-
 ## 💬 Let's Connect!  
 If you’d like to chat about blockchain, development, or potential collaborations, feel free to reach out:  
 
